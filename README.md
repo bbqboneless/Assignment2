@@ -12,4 +12,4 @@ In the repository we have 6 files, which correspond to each and every excercise 
       string to double. But in the end, it was a complete succes (I think).
   b.  As for Excercise 6, it was a little more quick. The comparisson was easier and it gave 0 for matching results, -1 when str1 was smaller than str2, and 1 when str1       larger than str2.
   
-  Overall, all the excercises were understood and the examples were done as well.
+  Overall, all the excercises were understood and the examples were done as well. A picture containing the results of the execution of each program is provided as well.
