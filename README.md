@@ -1,4 +1,5 @@
 # Assignment2
+Samantha Licea Dominguez | z122301
 
 For all the excercises of this assignment, the following commands were used:
   1.  gedit [FILENAME].c -> This was to open the C builder in order to be able to write the programs.
